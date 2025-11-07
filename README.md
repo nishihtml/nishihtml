@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishihtml
 - 👀 I’m interested in art
-- 🌱 I’m currently learning c/assembly
+- 🌱 I’m currently learning c/c++/assembly
 - 😄 Pronouns: he/him
 
 <!---
